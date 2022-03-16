@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChrisH0
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning #Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me joelrx96@gmail.com
